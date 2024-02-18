@@ -1,0 +1,14 @@
+{
+  "name": "sanber-tugas-javascript",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan Javascript Sanbercode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rifalf",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
